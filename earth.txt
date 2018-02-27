@@ -1,0 +1,1 @@
+This is the line we need to add to earth.txt
